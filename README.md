@@ -17,7 +17,7 @@
 
 ## Datatable
 
-![Table](https://github.com/user-attachments/assets/553fb029-9a20-4f06-8f10-7ee09d77ff73)
+![Table](https://github.com/user-attachments/assets/129244ce-9268-4794-8f5a-519467f2d926)
 
 
 ## From

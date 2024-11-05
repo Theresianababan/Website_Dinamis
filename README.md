@@ -2,7 +2,8 @@
 
 ## Home
 
-![Home](https://github.com/user-attachments/assets/d7ca2be4-c9a1-4de6-85b9-8ecc9c233139)
+![Home](https://github.com/user-attachments/assets/ca3a7cc6-6e5b-4ec5-85e6-08b335cde95c)
+
 
 ## Kontak
 

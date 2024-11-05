@@ -1,7 +1,7 @@
     <!-- Hero Section -->
     <section class="jumbotron text-center">
         <div class="container">
-            <h1 class="display-4">Hallo, Selamat Datang di Web Theresia Nababan</h1>
+            <h1 class="display-4">Selamat Datang di Web Theresia</h1>
             <p class="lead">Mahasiswa - Teknik Informatika</p>
             <a href="?page=about" class="btn btn-primary btn-lg">About me</a>
         </div>
@@ -15,7 +15,7 @@
             </div>
             <div class="col-md-6">
                 <h2>Tentang Saya</h2>
-                <p>Saya adalah Mahasiswa Teknik Informatika di Universitas Pelita Bangsa. 
+                <p> "Selamat datang di web saya" 
 
                 </p>
             </div>
